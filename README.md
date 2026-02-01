@@ -1,0 +1,1 @@
+This repository hosts implementations of two fuzzy clustering algorithms: AVFL1 (L1-Regularized) and AVFL0 (L0-Regularized) Fuzzy c-Means with an Adaptive Vectorized Fuzzifier. The Datasets folder contains real experimental data, while Clustering metrics provides evaluation tools. 
